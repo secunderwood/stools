@@ -216,3 +216,4 @@ See you at the workshop!
         $ hugo server
 
 # stools
+# stools
